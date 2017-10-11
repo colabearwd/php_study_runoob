@@ -15,6 +15,7 @@ else
 {
     echo "have a good night";
 }
+
 if ($t < "10")
 {
     echo "have a good morning!";
@@ -27,4 +28,5 @@ else
 {
     echo "have a good night";
 }
+
 
